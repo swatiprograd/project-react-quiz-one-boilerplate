@@ -1,0 +1,41 @@
+.result{
+  text-align: center;
+}
+
+h1{
+  color:green;
+}
+  
+.score{
+  color:blue;
+}
+
+.score-section{
+  background-color: white;
+  width: 40%;
+  margin: 2rem auto 0 auto;
+  padding: 1.5rem 2rem;
+}
+  
+.flex{
+  display: flex;
+  justify-content:space-between;
+  gap: 0rem;
+}
+
+.details{
+  text-align: left;
+}
+
+.buttons{
+  margin: 30px;
+}
+
+.play{
+    margin-right: 30px;
+    color: purple;
+  }
+
+.home{
+  color:green;
+}

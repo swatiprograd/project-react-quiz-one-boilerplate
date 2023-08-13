@@ -1,0 +1,15 @@
+.home {
+  text-align: center;
+}
+
+.home-heading {
+  color: white;
+}
+
+.home-btn {
+  background-color: green;
+  width: 150px;
+  height: 35px;
+  border-radius: 20px;
+  cursor: pointer;
+}
